@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: midnightblue;
+    color: royalblue;
     margin: auto;
     font-size: 10em;
 }
@@ -12,4 +12,8 @@ h2 {
     color: seagreen;
     margin: auto;
     font-size: 8em;
+}
+
+p {
+    border: 2px solid rebeccapurple;
 }
